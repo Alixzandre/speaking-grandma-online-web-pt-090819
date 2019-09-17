@@ -15,8 +15,10 @@
 
 def speak_to_grandma(Words)
   if words = words.upcase
+    if words = "I LOVE YOU GRANDMA!"
+      return
     return "NO, NOT SINCE 1938!"
-  elseif
+  elsif
     
   
   end
