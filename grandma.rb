@@ -13,4 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def 
+def speak_to_grandma(Words)
+  if words = words.upcase
+    return ""
+end
